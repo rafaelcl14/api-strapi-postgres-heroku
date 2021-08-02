@@ -10,7 +10,7 @@ Icon
 .Trashes
 ._*
 
-package.json
+package-lock.json
 yarn.lock
 
 ############################
